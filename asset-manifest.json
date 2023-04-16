@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/student-recorder/static/css/main.073c9b0a.css",
+    "main.js": "/student-recorder/static/js/main.2e552531.js",
+    "static/js/787.ee22a588.chunk.js": "/student-recorder/static/js/787.ee22a588.chunk.js",
+    "static/media/logo.svg": "/student-recorder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/student-recorder/index.html",
+    "main.073c9b0a.css.map": "/student-recorder/static/css/main.073c9b0a.css.map",
+    "main.2e552531.js.map": "/student-recorder/static/js/main.2e552531.js.map",
+    "787.ee22a588.chunk.js.map": "/student-recorder/static/js/787.ee22a588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2e552531.js"
+  ]
+}
